@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+.name{
+    font-size: 180%;
+}
+.com{
+    font-size: 100%;
+}
+.career{
+       margin-left: 30px;
+}
+.img{
+    border-radius: 20%;
+}
+table ,th , td {
+    border:1px solid black;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.last{
+    margin-right: 1000px;
+}
+.img2{
+    background-color:azure;
+}
